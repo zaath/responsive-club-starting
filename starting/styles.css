@@ -1,0 +1,59 @@
+html {
+    font-size: 20px;
+    background-color: #ffd166;
+    color: #073b4c;
+    font-family: 'Poppins', Arial;
+}
+
+body {
+    margin:0;
+}
+
+nav {
+    background-color: #118ab2;
+    color: #ffd166;
+    font-weight: 700;
+}
+
+nav p {
+    margin: 5px 1.5rem;
+    padding: 1rem;
+    display:inline-block;
+    font-size: 1rem;
+}
+
+header {
+    background-color: #ef476f;
+    color: #ffd166;
+    padding: 2rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3.5rem;
+}
+
+#presents {
+    margin: 1rem;
+    padding: 2rem;
+}
+
+.quote-container {
+    background-color: #06d6a0;
+    padding: 2rem;
+}
+
+.quote {
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+#cta {
+    text-align: center;
+    margin: 4rem auto;
+}
+
+#cta img {
+    width: 50%;
+    height: auto;
+}
